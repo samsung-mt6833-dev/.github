@@ -1,7 +1,7 @@
-## Samsung MediaTek Development
+## Samsung MediaTek Development [WIP]
 <img align="right"  src="https://www.businesskorea.co.kr/news/photo/202407/221733_223571_321.jpg">
 
-This organization contains repositories to build for Dimensity 700 (MT6833) Devices
+This organization contains repositories to build for Dimensity 700 (MT6833) Devices 
 
 ### Supported Devices
 * Samsung Galaxy A14 5g (SM-A146P)
